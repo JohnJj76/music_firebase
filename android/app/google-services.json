@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832244124790",
+    "project_id": "music-firebase-3671d",
+    "storage_bucket": "music-firebase-3671d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832244124790:android:e4d887d1042748a7ca2357",
+        "android_client_info": {
+          "package_name": "com.johonbar.music_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD-W6KlSG1ZQtCWUU5r9xVxa28_gJgfxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
